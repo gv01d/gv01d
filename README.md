@@ -1,6 +1,6 @@
 ***
 
-$${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
+$${\color{red}- - - - - - - - - -\space\space BEM\space\space VINDO\space\space SER\space\space SUPERIOR\space\space - - - - - - - - - -}$$
 
 ***
 <img src="gifs/shannon-sharpe-v1.gif" align="right" width="280px">
