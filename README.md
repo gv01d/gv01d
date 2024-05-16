@@ -1,5 +1,3 @@
-// ### Hi there 👋
-
 <img src="gifs/shannon-sharpe-v1.gif">
 
 <!--
