@@ -1,4 +1,9 @@
-### BEM VINDO SER SUPERIOR
+
+$${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
+
+<div style="background-color:rgba(250, 250, 250, 1); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px;color:rgba(0, 0, 0, 1);font-weight:bolder">
+BEM VINDO SER SUPERIOR
+</div>
 
 ***
 
