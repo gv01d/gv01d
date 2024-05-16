@@ -3,14 +3,15 @@ $${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
 
 ***
 
-<img src="gifs/shannon-sharpe-v1.gif" width="300px" align="left">
+<img src="gifs/shannon-sharpe-v1.gif" width="300px" align="right">
     
-&nbsp; &nbsp; <label align="left">Known programing lenguages:</label>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
+![gv01d's Stats](https://github-readme-stats.vercel.app/api?username=gv01d&theme=maroongold&show_icons=true&hide_border=false&count_private=true)
+<br>
 
+![gv01d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gv01d&theme=maroongold&show_icons=true&hide_border=false&layout=compact)
+<br>
+
+![gv01d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gv01d&theme=maroongold&hide_border=false)
 ***
 
 <img src="gifs/ultrakill-7-4.gif">
