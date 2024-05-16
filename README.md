@@ -2,8 +2,9 @@
 $${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
 
 ***
-
-<img src="gifs/shannon-sharpe-v1.gif">
+<div align="center">
+    <img src="gifs/shannon-sharpe-v1.gif">
+</div>
 <img src="gifs/ultrakill-7-4.gif">
 
 <!--
