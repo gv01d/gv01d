@@ -3,7 +3,7 @@ $${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
 
 ***
 
-<img src="gifs/shannon-sharpe-v1.gif" width="400px" align="right">
+<img src="gifs/shannon-sharpe-v1.gif" width="300px" align="right">
  
 ![gv01d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gv01d&theme=maroongold&hide_border=false) <br>
 ![gv01d's Stats](https://github-readme-stats.vercel.app/api?username=gv01d&theme=maroongold&show_icons=true&hide_border=false&count_private=true) <br>
