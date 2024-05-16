@@ -5,7 +5,10 @@ $${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
 <div align="center" src="gifs/ultrakill-7-4.gif">
     <img src="gifs/shannon-sharpe-v1.gif" width="300px">
 </div>
-<img position="absolute" src="gifs/ultrakill-7-4.gif">
+
+***
+
+<img src="gifs/ultrakill-7-4.gif">
 
 <!--
 **gv01d/gv01d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
