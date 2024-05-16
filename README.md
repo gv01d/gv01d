@@ -12,7 +12,7 @@ $${\color{red}BEM\space\space VINDO\space\space SER\space\space SUPERIOR}$$
 
 ***
 
-<img src="gifs/ultrakill-7-4.gif">
+<img src="gifs/ultrakill-7-4.gif" align="center" width="1000">
 
 <!--
 **gv01d/gv01d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
